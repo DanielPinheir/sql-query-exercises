@@ -4,7 +4,7 @@
 
 ## Exercícios
 
-1. [Fazer consultas](/sql-query-exercises/01/query.sql)
+1. [Fazer consultas](./01/query.sql)
 
 ---
 
